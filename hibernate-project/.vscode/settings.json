@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "flat",
+    "java.import.maven.disableTestClasspathFlag": true,
+    "java.debug.settings.onBuildFailureProceed": true
+}
